@@ -1,0 +1,48 @@
+html {
+	font-size: 10px;
+font-family: "Noto Sans Vai"
+}
+
+h1 {
+	font-size: 60px;
+text-align: center;
+}
+
+p, li {
+	font-size: 16px;
+line-height: 2;
+letter-spacing: 1px;
+}
+
+html {
+	background-color: #808080;
+}
+
+body {
+	width: 800px;
+	margin: 0 auto;
+	background-color: #722F37;
+	padding: 20px 20px 20px 20px;
+	border: 5px solid black;
+}
+
+h1 {
+	margin: 0 auto;
+	padding: 20px auto;
+	color: red;
+	text-shadow: 3px 3px 1px black;
+	border: 10px solid black;
+}
+
+img {
+	width: 400px;
+	display: block;
+	margin: 0 auto;
+	border: 8px solid black;
+}
+
+h2 {
+	font-size:30px;
+	text-align: center;
+	text-shadow: 10px 8px 6px black;
+}
